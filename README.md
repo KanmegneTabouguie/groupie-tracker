@@ -89,3 +89,8 @@ If you would like to contribute to Groupie Tracker, follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
+Demo
+
+
+https://github.com/KanmegneTabouguie/groupie-tracker/assets/133702750/780f04d8-cd27-4552-a5da-3405a0fa005c
+
